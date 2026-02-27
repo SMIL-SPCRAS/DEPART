@@ -101,6 +101,8 @@ Typical artifacts:
 Additional exported prediction files:
 - `pkl_logits/*.pkl` (train/dev/test exports from best checkpoint).
 
+## Data
+We used the publicly available corpus In-the-Wild Speech Medical - [WSM](https://www.dropbox.com/scl/fo/jp3kc9pgjyuazmcfhjyup/ABSxzJIpfeybFHEL3p8sjWM?rlkey=4gedeh8kcpkiuoa90rexodcfy&e=1&dl=0). We also provide the segmented and [cleaned WSM data](https://gofile.me/6UX1J/fq1NM6ShJ) for general access.
 ## Notes
 
 - The current implementation uses body modality in the active training pipeline.
