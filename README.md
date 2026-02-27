@@ -18,6 +18,10 @@ This repository implements the DEPART training and evaluation pipeline:
 
 Current active pipeline entrypoint: `main.py`.
 
+## DEPART Pipeline
+
+![DEPART pipeline](img/pipeline.jpg)
+
 ## Environment
 
 Install dependencies:
